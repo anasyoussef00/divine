@@ -1,0 +1,16 @@
+{
+  "name": "divine",
+  "version": "0.0.1",
+  "description": "Discord.js framework",
+  "main": "src/index.ts",
+  "repository": "git@github.com:youssef-182/divine.git",
+  "author": "youssef-182 <anasyoussef.elmahdad_1337@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
